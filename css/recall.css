@@ -1,6 +1,6 @@
 .recall {
   padding: 70px 0;
-  background-image: linear-gradient(rgba(47, 50, 75, 0.85), rgba(47, 50, 75, 0.85)), url("../images/form-bg.jpg");
+  background-image: linear-gradient(rgba(47, 50, 75, 0.85), rgba(47, 50, 75, 0.85)), url("/images/form-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }

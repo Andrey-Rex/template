@@ -1,7 +1,7 @@
 @import "normalize.css";
 @import "global.css";
-@import "var.css";
-@import "header/header.css";
-@import "about/about.css";
-@import "recall/recall.css";
-@import "footer/footer.css";
+
+@import "header.css";
+@import "about.css";
+@import "recall.css";
+@import "footer.css";
